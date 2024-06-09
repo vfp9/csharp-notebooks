@@ -33,10 +33,10 @@
 
 ## 机器学习
 
-Download or clone this repo and open the `machine-learning` folder to get started with the machine-learning notebooks.
+下载或克隆此 repo，打开 `machine-learning` 文件夹，开始使用机器学习笔记。
 
 
-### Getting Started Series
+### 入门
 
 | # | 标题                                      | 链接(英文)                               | 
 |---|--------------------------------------------|------------------------------------------------|  
