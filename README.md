@@ -1,4 +1,5 @@
 # .NET Interactive Notebooks for C#
+[English](README.md)|[简体中文](README_CN.md)
 
 Welcome to the home of .NET interactive notebooks for C#!
 
